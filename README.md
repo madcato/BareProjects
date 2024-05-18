@@ -157,15 +157,7 @@ This extension allows you to search and view TODOs and other tagged comments in 
 2. Search for `Todo Tree`.
 3. Click `Install`.
 
-## 4. **Kanban**
-An extension that allows you to create and manage Kanban boards directly in VS Code using Markdown files.
-
-**Installation:**
-1. Go to the Extensions tab in VS Code.
-2. Search for `Kanban`.
-3. Click `Install`.
-
-## 5. **Project Manager**
+## 4. **Project Manager**
 This extension helps you manage multiple projects in VS Code, which is useful if you are working with several repositories.
 
 **Installation:**
@@ -173,7 +165,7 @@ This extension helps you manage multiple projects in VS Code, which is useful if
 2. Search for `Project Manager`.
 3. Click `Install`.
 
-## 6. **GitLens**
+## 5. **GitLens**
 An extension that enhances Git capabilities in VS Code, providing rich details about Git history, authors of specific lines of code, and more.
 
 **Installation:**
@@ -181,7 +173,7 @@ An extension that enhances Git capabilities in VS Code, providing rich details a
 2. Search for `GitLens`.
 3. Click `Install`.
 
-## 7. **Markdown Preview Enhanced**
+## 6. **Markdown Preview Enhanced**
 Provides an advanced preview of Markdown files with support for diagrams and other visual elements.
 
 **Installation:**
